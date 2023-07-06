@@ -1,0 +1,13 @@
+.foreacastsection {
+  background-color: transparent;
+  width: 90vw;
+  font-size: large;
+}
+.hourtrack {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.progressbar {
+  width: 70%;
+}
